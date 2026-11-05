@@ -16,3 +16,4 @@
    pip install -r requirements.txt
 3. 运行程序：
    python main.
+## 运行效果https://github.com/Bessie-whut/yolo_camera/blob/main/.yolov8n.pt.930b4dca7ccb4056a8c60135b127bc4c.part
