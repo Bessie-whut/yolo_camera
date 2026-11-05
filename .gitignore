@@ -1,0 +1,5 @@
+__pycache__/
+.vscode/
+yolov8n.pt
+*.jpg
+*.png
