@@ -16,4 +16,5 @@
    pip install -r requirements.txt
 3. 运行程序：
    python main.
-## 运行效果https://github.com/Bessie-whut/yolo_camera/blob/main/.yolov8n.pt.930b4dca7ccb4056a8c60135b127bc4c.part
+## 运行效果<img width="1494" height="948" alt="截图 2026-11-04 18-11-36" src="https://github.com/user-attachments/assets/3e672a88-79bc-4437-9e06-7e3b85b9af3c" />
+
